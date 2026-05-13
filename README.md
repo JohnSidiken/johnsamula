@@ -24,6 +24,7 @@ Personal portfolio showcasing my projects, skills, and contact info. Built with 
 git clone https://github.com/JohnSidiken/johnsamula.git
 cd johnsamula
 # Open index.html in browser
+```
 
 ### **Contact Me**
 - **Email:** [johnsidiken@gmail.com](mailto:johnsidiken@gmail.com)
